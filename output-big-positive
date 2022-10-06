@@ -1,0 +1,569 @@
+X release into Y X secrete into Y	0.8482143606964865
+X make from Y X derive from Y	0.6462793630703062
+X give Y X expose to Y	0.36222762074656467
+X die from Y X die of Y	1.1226461637946121
+X cause by Y X involve Y	0.31316452338668205
+X give Y X indicate for Y	0.5642307360501199
+X involve Y X define as Y	0.4867738216254645
+X result in Y X accompany by Y	0.13521754793347465
+X administer for Y X give for Y	0.3245892943508541
+X associate with Y X develop from Y	0.4789578301225933
+X accompany Y X complicate Y	0.6449053727239791
+X consist of Y X begin with Y	0.8600655511514418
+X confound with Y X confuse with Y	0.6403570552841242
+X base on Y X make from Y	0.7127647936429639
+X cause Y X lead to Y	0.9810221319419397
+X control with Y X treat by Y	0.2630153997200405
+X accompany by Y X result in Y	0.13521754793347465
+X bring Y X cause Y	1.0308956503539362
+X give for Y X take for Y	0.6903035369581245
+X see in Y X cause by Y	0.2257336582603947
+X find Y X discover Y	0.8582285816475723
+X lead to Y X complicate by Y	0.17271594312106928
+X characterize by Y X mean Y	0.24246554202721568
+X suffer from Y X develop Y	0.6155344022957397
+X treat with Y X affect by Y	0.5537091556715321
+X cause Y X increase Y	0.8276355264474682
+X control by Y X control with Y	0.41976927330193314
+X associate with Y X attend with Y	0.4023120705566059
+X afford by Y X provide by Y	0.44251609674576053
+X develop from Y X result from Y	0.7071703958825934
+X cause Y X mean Y	0.9970495745684038
+X give Y X cause Y	0.9334305450848621
+X convert Y X break Y	0.7359244224665175
+X control by Y X relieve by Y	0.49999636203467657
+X obtain from Y X derive from Y	0.8491672445187194
+X accompany Y X associate with Y	0.7340819147559519
+X make from Y X base on Y	0.7127647936429639
+X take for Y X give for Y	0.6903035369581246
+X take for Y X help Y	0.5629639631310026
+X lead to Y X contribute to Y	0.8886517046664093
+X develop into Y X complicate by Y	0.17835784445711136
+X encounter Y X meet Y	0.928539569657051
+X penetrate Y X fertilize Y	0.20515688293650866
+X help Y X decrease Y	0.6130215347561686
+X relieve by Y X treat by Y	0.43271653468954563
+X overcome by Y X treat by Y	0.33898105154351926
+X confuse with Y X confound with Y	0.6403570552841242
+X provide Y X give Y	0.8416669995347732
+X treat with Y X take Y	0.2604909742855942
+X develop into Y X associate with Y	0.7058033463436254
+X accompany by Y X come with Y	0.16824350025935964
+X characterize by Y X lead to Y	0.31625173060479433
+X affect Y X involve Y	1.010984001869334
+X appear as Y X characterize by Y	0.17928835767177878
+X lead to Y X develop into Y	0.6767883023365875
+X provide Y X contain Y	0.8930602090956321
+X indicate for Y X afford Y	0.3757625540822643
+X characterize by Y X result from Y	0.14118706638265155
+X increase Y X cause Y	0.8276355264474669
+X give Y X bring Y	0.9127969313024784
+X correct by Y X treat with Y	0.4922141199721076
+X correct by Y X correct with Y	0.26601392475143076
+X alleviate Y X decrease Y	0.7008841170220141
+X start with Y X characterize by Y	0.3272379264187889
+X enter Y X inject into Y	0.3585295902739968
+X fertilize Y X enter Y	0.3027128813587167
+X make from Y X consist of Y	0.3792284343984036
+X treat with Y X correct with Y	0.4330120714865554
+X penetrate Y X inject into Y	0.5711785576229294
+X treat with Y X correct by Y	0.4922141199721076
+X contribute to Y X lead to Y	0.8886517046664087
+X characterize by Y X manifest by Y	0.45876879203267396
+X accompany by Y X attend with Y	0.47566276696780896
+X develop from Y X associate with Y	0.47895783012259313
+X give before Y X start before Y	0.3428359906105229
+X characterize by Y X include Y	0.1763115555107095
+X indicate for Y X provide Y	0.3306650729042182
+X release Y X make Y	0.5929386907811592
+X attend with Y X accompany by Y	0.475662766967809
+X confuse with Y X distinguish from Y	0.5336493566123781
+X decrease Y X control Y	0.6837720860095033
+X control with Y X relieve with Y	0.2762987352793919
+X suggest Y X result in Y	0.9598583927429849
+X convert by Y X metabolize by Y	0.0
+X induce Y X provide Y	0.7637608550000576
+X mask Y X control Y	0.5089582549743227
+X control Y X decrease Y	0.6837720860095038
+X indicate in Y X indicate for Y	0.7674615489239411
+X associate with Y X result in Y	0.4891449087560598
+X associate with Y X see with Y	0.7664347142588188
+X alternate with Y X give to Y	0.3069195146549828
+X cause Y X develop with Y	0.4446032759006348
+X make from Y X compose of Y	0.39728026787298437
+X isolate from Y X derive from Y	0.27162871160478774
+X affect Y X develop in Y	0.8770565763283453
+X control by Y X overcome by Y	0.24558246724116398
+X find in Y X appear in Y	0.8043556704675442
+X correct with Y X correct by Y	0.26601392475143076
+X overcome by Y X control by Y	0.2455824672411639
+X cause Y X trigger Y	0.5944356320332814
+X cause by Y X define as Y	0.35332302558157697
+X contract Y X develop Y	0.6176015235104525
+X treat with Y X cure with Y	0.23120847791409416
+X destroy Y X attack Y	0.9471612471506023
+X affect by Y X treat with Y	0.5537091556715321
+X treat by Y X relieve by Y	0.4327165346895457
+X give Y X treat with Y	0.3130844086167839
+X come with Y X associate with Y	0.6083398367980793
+X suggest Y X see in Y	0.8013608359363495
+X contain Y X compose of Y	0.11024104006042716
+X involve Y X associate with Y	0.7003297283425085
+X associate with Y X develop Y	0.6421320766330673
+X complicate Y X result from Y	0.8091882742496564
+X afford Y X provide Y	0.9205514666859932
+X cure Y X control Y	0.7386196749884005
+X break Y X convert Y	0.7359244224665178
+X fertilize Y X penetrate Y	0.20515688293650858
+X relieve Y X help Y	0.8019600973668404
+X enter Y X release into Y	0.32788545984482337
+X make of Y X make from Y	0.697554848678883
+X relieve Y X provide from Y	0.2898799007840991
+X relieve by Y X relieve with Y	0.356230676854773
+X manage with Y X treat by Y	0.21542368470255965
+X associate with Y X give to Y	0.7265803628661466
+X mask Y X help Y	0.3611060391841197
+X cause by Y X result from Y	0.556454235407853
+X give for Y X relieve Y	0.7852000185240717
+X confuse with Y X differentiate from Y	0.330627961555718
+X cause by Y X accompany by Y	0.43951596151043104
+X affect Y X infect Y	0.42354498208767605
+X treat with Y X treat by Y	0.2260018068671944
+X metabolize in Y X metabolize by Y	0.0
+X inject into Y X enter Y	0.3585295902739968
+X cause Y X start with Y	0.7457252210742517
+X help Y X mask Y	0.36110603918411965
+X manifest by Y X characterize by Y	0.45876879203267396
+X turn into Y X develop into Y	0.6795914033688493
+X treat by Y X correct with Y	0.4724115474372538
+X suggest Y X associate with Y	0.6146613847920244
+X obtain from Y X isolate from Y	0.32138448764106464
+X characterize by Y X start with Y	0.32723792641878885
+X obtain with Y X achieve with Y	0.7020670343779407
+X introduce Y X make Y	0.7520230442318608
+X accompany Y X cause by Y	0.2703049466443377
+X lead to Y X turn into Y	0.7284516757842826
+X accompany by Y X mean Y	0.34415910712025194
+X suffer from Y X attack with Y	0.3094543150322073
+X provide from Y X control Y	0.2507419664998322
+X control Y X cure Y	0.7386196749884006
+X develop Y X suffer from Y	0.6155344022957394
+X confound with Y X mistake for Y	0.7159261525567874
+X relieve by Y X treat with Y	0.5298576567930676
+X cause Y X suggest Y	0.791401775072574
+X control Y X help Y	0.9980411610716173
+X administer to Y X give to Y	0.21536787803253507
+X find in Y X see in Y	0.8719906272577341
+X control with Y X treat with Y	0.2091480176678196
+X carry Y X contain Y	0.8227693870635185
+X cause by Y X mean Y	0.5206461140790769
+X achieve with Y X obtain with Y	0.7020670343779407
+X relieve by Y X correct by Y	0.47138935737893983
+X develop into Y X suggest Y	0.7371145471706997
+X manifest by Y X result in Y	0.31332319883864385
+X cure with Y X treat with Y	0.23120847791409418
+X treat by Y X cure with Y	0.3842622176560237
+X alleviate Y X give for Y	0.3774514337384424
+X order for Y X relieve Y	0.5664440897818519
+X contain Y X provide Y	0.8930602090956319
+X associate with Y X accompany with Y	0.34396426885959563
+X enter Y X fertilize Y	0.3027128813587167
+X control by Y X manage with Y	0.39547288328012087
+X infect Y X affect Y	0.4235449820876761
+X take for Y X relieve Y	0.49478092327512646
+X convert to Y X metabolize to Y	0.21652478828787264
+X accompany Y X accompany by Y	0.2578767633800535
+X relate to Y X suggest Y	0.8590511117031931
+X result from Y X cause by Y	0.556454235407853
+X give to Y X alternate with Y	0.3069195146549829
+X see with Y X associate with Y	0.7664347142588188
+X increase Y X associate with Y	0.6243349301145379
+X see in Y X associate with Y	0.740844965467942
+X invent Y X discover Y	0.7385768744998986
+X decrease Y X relieve Y	0.6089732912608409
+X cure with Y X control by Y	0.49973721506237895
+X relieve with Y X manage with Y	0.3738433482387445
+X provide from Y X give for Y	0.24956931385147363
+X fertilize by Y X penetrate by Y	0.0
+X appear in Y X find in Y	0.8043556704675447
+X fertilize Y X inject into Y	0.2933798781709989
+X treat by Y X control by Y	0.6628319852578385
+X associate with Y X involve Y	0.7003297283425081
+X digest Y X break Y	0.33183263734149976
+X accompany Y X cause Y	0.8276342263679608
+X induce Y X cause Y	1.056342732056005
+X involve Y X cause by Y	0.31316452338668216
+X manage with Y X treat with Y	0.5798506930764519
+X differ from Y X distinguish from Y	0.732568360575947
+X give to Y X characterize by Y	0.2982152620074025
+X treat Y X control Y	1.0621968370332886
+X find Y X invent Y	0.46944252318070756
+X lead to Y X result in Y	0.9468887734835189
+X suggest Y X result from Y	0.8279154698299408
+X accompany by Y X cause by Y	0.43951596151043104
+X cause Y X bring Y	1.030895650353934
+X manage with Y X relieve by Y	0.22156330813423775
+X associate with Y X indicate Y	0.6536650850961402
+X help Y X control Y	0.8980411610716176
+X administer for Y X help Y	0.16731824864391132
+X manifest by Y X cause Y	0.5914002420506322
+X result from Y X indicate Y	0.8413266169872479
+X see in Y X suggest Y	0.8013608359363495
+X cause Y X contribute to Y	1.086325935937502
+X control with Y X cure with Y	0.37250360242198255
+X consist of Y X compose of Y	0.13592133130392178
+X cause Y X result from Y	0.8215423222974165
+X give Y X afford Y	1.0195090671933649
+X associate with Y X accompany Y	0.7340819147559516
+X develop into Y X turn to Y	0.7295981257392746
+X associate with Y X contribute to Y	0.6157010995955833
+X treat by Y X cure by Y	0.4973815132291135
+X begin with Y X consist of Y	0.8600655511514423
+X give Y X provide Y	0.8416669995347767
+X characterize by Y X result in Y	0.35040424481656207
+X order for Y X administer for Y	0.5928722924612829
+X relieve Y X give for Y	0.7852000185240713
+X mistake for Y X distinguish from Y	0.5954736341057986
+X result from Y X develop from Y	0.7071703958825932
+X develop into Y X turn into Y	0.679591403368849
+X control by Y X relieve with Y	0.3035218926388642
+X indicate for Y X license for Y	0.31450892026551963
+X relieve by Y X manage with Y	0.22156330813423777
+X accompany by Y X associate with Y	0.3327205449056891
+X contain Y X make from Y	0.30628148636288055
+X lead to Y X suggest Y	1.041219249292919
+X mean Y X involve Y	0.83131309031529
+X lead to Y X cause Y	0.9810221319419405
+X begin as Y X associate with Y	0.4700552177869243
+X indicate Y X suggest Y	1.1939381278360983
+X afford Y X give Y	0.0195090671933666
+X manufacture Y X release Y	0.59535161998103
+X alleviate Y X help Y	0.3510795347823295
+X develop Y X contract Y	0.6176015235104525
+X result in Y X manifest by Y	0.31332319883864373
+X inject into Y X penetrate Y	0.5711785576229294
+X give Y X lead to Y	0.9976207692073376
+X relieve by Y X control by Y	0.4999963620346765
+X contribute to Y X associate with Y	0.6157010995955835
+X control Y X relieve Y	0.7786438688624073
+X treat by Y X treat with Y	0.22600180686719443
+X manage with Y X relieve with Y	0.3738433482387444
+X isolate from Y X find in Y	0.4280490943256937
+X cause Y X aggravate Y	0.521518996706161
+X complicate by Y X lead to Y	0.17271594312106928
+X characterize by Y X begin with Y	0.2115166297136907
+X characterize by Y X give to Y	0.2982152620074024
+X indicate for Y X develop for Y	0.6445493115478862
+X turn into Y X lead to Y	0.7284516757842826
+X involve Y X characterize by Y	0.39476242386595417
+X accompany by Y X develop with Y	0.3152149685001977
+X convert Y X digest Y	0.41239887779457646
+X confuse with Y X mistake for Y	0.7440053362753052
+X indicate for Y X control Y	0.4304646810201713
+X convert into Y X convert to Y	0.7701661944982146
+X cause Y X give to Y	0.9657843884369504
+X result from Y X attribute to Y	0.5506858833850591
+X confound with Y X differ from Y	0.21131217380306297
+X order for Y X indicate for Y	0.3595647994637379
+X cause by Y X relate to Y	0.31717047281867733
+X associate with Y X develop into Y	0.7058033463436257
+X mistake for Y X confuse with Y	0.7440053362753051
+X manifest as Y X associate with Y	0.2786589529654342
+X cause Y X induce Y	1.0563427320560037
+X suggest Y X cause by Y	0.41892138417781033
+X indicate Y X cause by Y	0.27750713376199065
+X isolate from Y X obtain from Y	0.32138448764106464
+X complicate with Y X associate with Y	0.14898486666491928
+X complicate Y X accompany Y	0.6449053727239789
+X die of Y X expose to Y	0.6072849053655749
+X cure by Y X treat with Y	0.23302262539626054
+X suggest Y X lead to Y	1.041219249292919
+X confuse with Y X differ from Y	0.24797474373430284
+X contribute to Y X result in Y	0.8302588382859406
+X control Y X order for Y	0.5179945518211465
+X involve Y X confine to Y	0.7061872022976494
+X cause Y X accompany by Y	0.38754662294849956
+X meet Y X encounter Y	0.9285395696570504
+X make Y X release Y	0.5929386907811595
+X result in Y X give to Y	0.7542912575233813
+X associate with Y X accompany by Y	0.3327205449056891
+X include Y X contain Y	0.8543925018951243
+X treat with Y X give Y	0.3130844086167839
+X compose of Y X base on Y	0.1643590509256685
+X license for Y X indicate for Y	0.31450892026551963
+X cause by Y X indicate Y	0.27750713376199065
+X indicate Y X associate with Y	0.65366508509614
+X infect with Y X carry Y	0.13806103941438527
+X invent Y X find Y	0.46944252318070767
+X correct with Y X treat with Y	0.4330120714865553
+X control Y X treat Y	1.0621968370332882
+X accompany with Y X associate with Y	0.34396426885959547
+X include Y X characterize by Y	0.17631155551070948
+X characterize by Y X involve Y	0.39476242386595417
+X confine to Y X involve Y	0.7061872022976498
+X relieve with Y X control with Y	0.2762987352793919
+X control Y X provide from Y	0.25074196649983227
+X provide Y X indicate for Y	0.33066507290421787
+X contain Y X carry Y	0.8227693870635185
+X characterize by Y X appear as Y	0.17928835767177875
+X compose of Y X consist of Y	0.13592133130392178
+X give to Y X cause Y	0.9657843884369502
+X cause Y X accompany with Y	0.35510263966626665
+X give for Y X order for Y	0.2710819195003086
+X relieve Y X order for Y	0.5664440897818519
+X alleviate Y X control Y	0.39981371830739165
+X enter Y X penetrate Y	0.7978926052282387
+X suggest Y X relate to Y	0.8590511117031931
+X treat by Y X control with Y	0.2630153997200405
+X mean Y X accompany by Y	0.344159107120252
+X take Y X treat with Y	0.26049097428559426
+X associate with Y X manifest as Y	0.27865895296543414
+X mean Y X cause by Y	0.5206461140790768
+X release Y X manufacture Y	0.59535161998103
+X order for Y X control Y	0.5179945518211466
+X contribute to Y X characterize by Y	0.1463255941188229
+X secrete into Y X release into Y	0.8482143606964861
+X mean Y X define as Y	0.3568452677072435
+X attack with Y X suffer from Y	0.3094543150322073
+X characterize by Y X consist of Y	0.31365037410609364
+X cause Y X begin as Y	0.21516668694206906
+X metabolize by Y X convert by Y	0.0
+X attack Y X affect Y	0.6796915565796458
+X develop with Y X associate with Y	0.6344078801328022
+X define as Y X involve Y	0.4867738216254642
+X provide Y X afford Y	0.9205514666859929
+X digest Y X convert Y	0.41239887779457646
+X relieve Y X alleviate Y	0.6360587631886826
+X result from Y X cause Y	0.8215423222974167
+X afford Y X indicate for Y	0.37576255408226433
+X help Y X give for Y	0.7474052462579275
+X indicate for Y X order for Y	0.3595647994637379
+X cause by Y X suggest Y	0.4189213841778103
+X give for Y X alleviate Y	0.3774514337384424
+X bring Y X provide Y	0.849373609516138
+X find in Y X enter Y	1.1884654884234715
+X accompany by Y X accompany Y	0.25787676338005355
+X give before Y X administer before Y	0.0
+X correct by Y X relieve by Y	0.47138935737893983
+X associate with Y X increase Y	0.6243349301145377
+X accompany with Y X accompany by Y	0.36280026897751255
+X associate Y X cause Y	0.4897160171352028
+X develop Y X associate with Y	0.6421320766330674
+X attribute to Y X result from Y	0.5506858833850591
+X order for Y X give for Y	0.2710819195003086
+X mistake for Y X confound with Y	0.7159261525567876
+X mask Y X alleviate Y	0.5422333097781531
+X manufacture Y X make Y	0.269533168069389
+X develop with Y X accompany by Y	0.3152149685001977
+X treat with Y X relieve by Y	0.5298576567930676
+X see in Y X indicate Y	0.7797595864872187
+X relate to Y X result from Y	0.7583171082676246
+X contribute to Y X cause Y	1.0863259359375022
+X develop from Y X cause by Y	0.4422016185900777
+X associate with Y X begin as Y	0.4700552177869243
+X provide from Y X relieve Y	0.2898799007840991
+X make from Y X make of Y	0.6975548486788827
+X develop Y X cause Y	1.0722244254298814
+X attend with Y X associate with Y	0.4023120705566059
+X lead to Y X give Y	0.9976207692073384
+X confine to Y X affect Y	0.6604148975745
+X cure with Y X treat by Y	0.3842622176560237
+X trigger Y X cause Y	0.5944356320332814
+X associate with Y X develop with Y	0.6344078801328024
+X indicate for Y X give Y	0.56423073605012
+X obtain from Y X find in Y	0.6668307729936896
+X contain Y X include Y	0.854392501895124
+X cause Y X result in Y	0.8167432862312939
+X mean Y X associate with Y	0.6218440780685329
+X treat by Y X manage with Y	0.21542368470255965
+X convert to Y X convert into Y	0.7701661944982149
+X control Y X mask Y	0.5089582549743225
+X relate to Y X attribute to Y	0.8155919257771614
+X derive from Y X make from Y	0.6462793630703064
+X treat with Y X overcome by Y	0.6744873471232095
+X bring Y X afford Y	0.8043944298220231
+X find in Y X associate with Y	0.6236985982172607
+X pass through Y X enter Y	1.089455190760654
+X control Y X alleviate Y	0.3998137183073916
+X accompany Y X suggest Y	0.8527127847176248
+X result from Y X mean Y	0.6635428987449958
+X develop after Y X cause by Y	0.44454141153177984
+X help Y X relieve Y	0.8019600973668408
+X associate with Y X mean Y	0.6218440780685327
+X decrease Y X help Y	0.6130215347561685
+X convert into Y X metabolize to Y	0.34898129046753446
+X alleviate Y X mask Y	0.542233309778153
+X associate with Y X attribute to Y	0.8117662393797628
+X compose of Y X make from Y	0.3972802678729844
+X treat by Y X correct by Y	0.5697788349846683
+X die of Y X die from Y	1.1226461637946121
+X mean Y X result from Y	0.6635428987449962
+X treat by Y X overcome by Y	0.3389810515435193
+X relieve Y X mask Y	0.49750842157379205
+X relieve Y X help with Y	0.6252945494462044
+X cause Y X attend with Y	0.3924913258313514
+X cause Y X develop Y	1.0722244254298814
+X start before Y X give before Y	0.34283599061052283
+X provide Y X induce Y	0.763760855000057
+X associate with Y X find in Y	0.6236985982172605
+X give for Y X administer for Y	0.32458929435085415
+X characterize by Y X contribute to Y	0.1463255941188229
+X complicate Y X cause Y	0.5392810300850813
+X associate with Y X manifest by Y	0.2857855913108648
+X see in Y X find in Y	0.8719906272577341
+X compose of Y X contain Y	0.11024104006042716
+X help Y X take for Y	0.5629639631310025
+X expose to Y X give Y	0.3622276207465645
+X attribute to Y X relate to Y	0.8155919257771613
+X treat with Y X cure by Y	0.23302262539626054
+X develop into Y X lead to Y	0.6767883023365879
+X contain Y X consist of Y	0.9728440197347852
+X give to Y X result in Y	0.7542912575233813
+X treat with Y X manage with Y	0.5798506930764517
+X result from Y X relate to Y	0.7583171082676246
+X decrease Y X alleviate Y	0.700884117022014
+X relieve Y X administer for Y	0.2256785872186819
+X cure by Y X treat by Y	0.4973815132291135
+X cause Y X accompany Y	0.8276342263679612
+X complicate Y X cause by Y	0.4305200897793767
+X come with Y X accompany by Y	0.16824350025935964
+X distinguish from Y X differ from Y	0.7325683605759477
+X bring Y X give Y	0.9127969313024775
+X mistake for Y X differ from Y	0.3269310196179277
+X associate with Y X suggest Y	0.6146613847920246
+X enter Y X pass through Y	1.0894551907606536
+X treat with Y X control by Y	0.23628277415821053
+X manage with Y X control with Y	0.39566144648254364
+X make Y X introduce Y	0.7520230442318605
+X enter Y X find in Y	1.188465488423472
+X provide by Y X afford by Y	0.44251609674576053
+X consist of Y X contain Y	0.9728440197347841
+X result from Y X complicate Y	0.8091882742496564
+X associate with Y X relate to Y	0.7585171424563046
+X derive from Y X obtain from Y	0.849167244518719
+X develop for Y X indicate for Y	0.6445493115478862
+X result from Y X see in Y	0.4837075187603706
+X cause Y X give Y	0.9334305450848632
+X cause by Y X attribute to Y	0.29464878620875795
+X involve Y X mean Y	0.831313090315289
+X control with Y X relieve by Y	0.5927689936106526
+X manifest as Y X cause Y	0.5271684107886353
+X relieve Y X take for Y	0.49478092327512635
+X die of Y X suffer from Y	0.82863415270922
+X result from Y X characterize by Y	0.14118706638265155
+X start with Y X cause Y	0.7457252210742513
+X indicate Y X result from Y	0.8413266169872473
+X result in Y X associate with Y	0.48914490875605987
+X associate with Y X complicate with Y	0.14898486666491928
+X find in Y X obtain from Y	0.6668307729936895
+X attack Y X involve Y	0.6029123680602758
+X mask Y X relieve Y	0.4975084215737921
+X relieve Y X decrease Y	0.6089732912608411
+X administer for Y X relieve Y	0.2256785872186819
+X suggest Y X develop into Y	0.7371145471706999
+X result in Y X lead to Y	0.9468887734835174
+X define as Y X mean Y	0.3568452677072436
+X carry Y X infect with Y	0.1380610394143853
+X give for Y X help Y	0.7474052462579279
+X alleviate Y X relieve Y	0.6360587631886823
+X give to Y X administer to Y	0.21536787803253504
+X cause Y X complicate Y	0.5392810300850815
+X give for Y X provide from Y	0.24956931385147363
+X mean Y X characterize by Y	0.24246554202721562
+X cause Y X associate Y	0.4897160171352029
+X control by Y X cure with Y	0.499737215062379
+X base on Y X contain Y	0.21065797780157403
+X result in Y X cause Y	0.8167432862312942
+X associate with Y X see in Y	0.7408449654679419
+X aggravate Y X cause Y	0.5215189967061608
+X overcome by Y X relieve by Y	0.5112040747424962
+X help Y X administer for Y	0.16731824864391132
+X indicate Y X see in Y	0.7797595864872191
+X relate to Y X associate with Y	0.7585171424563046
+X herald by Y X associate with Y	0.2722924612829413
+X administer for Y X order for Y	0.5928722924612829
+X control with Y X manage with Y	0.3956614464825437
+X help with Y X relieve Y	0.6252945494462042
+X treat with Y X control with Y	0.2091480176678196
+X derive from Y X isolate from Y	0.2716287116047877
+X inject into Y X fertilize Y	0.2933798781709989
+X see in Y X result from Y	0.4837075187603707
+X cause by Y X develop after Y	0.44454141153177984
+X penetrate Y X enter Y	0.7978926052282391
+X associate with Y X come with Y	0.6083398367980797
+X cause by Y X accompany Y	0.2703049466443377
+X cause by Y X develop from Y	0.4422016185900778
+X expose to Y X develop Y	0.5461308198936853
+X define as Y X cause by Y	0.3533230255815769
+X accompany by Y X accompany with Y	0.36280026897751255
+X metabolize by Y X metabolize in Y	0.0
+X treat with Y X relieve with Y	0.550724418887589
+X relieve with Y X control by Y	0.30352189263886414
+X consist of Y X make from Y	0.37922843439840365
+X result in Y X characterize by Y	0.35040424481656207
+X cause Y X manifest as Y	0.5271684107886352
+X relieve with Y X relieve by Y	0.35623067685477305
+X metabolize to Y X convert into Y	0.34898129046753446
+X release into Y X enter Y	0.3278854598448234
+X consist of Y X characterize by Y	0.31365037410609364
+X metabolize to Y X convert to Y	0.21652478828787264
+X manage with Y X control by Y	0.39547288328012087
+X discover Y X find Y	0.8582285816475725
+X control by Y X treat with Y	0.23628277415821047
+X manifest by Y X lead to Y	0.22385426751886242
+X associate with Y X herald by Y	0.0
+X indicate for Y X indicate in Y	0.7674615489239411
+X result from Y X suggest Y	0.8279154698299405
+X relate to Y X cause by Y	0.3171704728186773
+X relieve by Y X overcome by Y	0.5112040747424962
+X cause Y X manifest by Y	0.5914002420506321
+X die of Y X develop Y	0.5750525135113549
+X result in Y X suggest Y	0.9598583927429842
+X suggest Y X accompany Y	0.8527127847176249
+X cause Y X affect Y	0.8449634394442295
+X relieve with Y X treat with Y	0.550724418887589
+X cause by Y X complicate Y	0.43052008977937684
+X suggest Y X indicate Y	0.5939381278360996
+X contain Y X base on Y	0.21065797780157397
+X give to Y X associate with Y	0.7265803628661466
+X develop in Y X affect Y	0.877056576328346
+X involve Y X attack Y	0.6029123680602758
+X correct by Y X treat by Y	0.5697788349846683
+X administer before Y X give before Y	0.0
+X provide Y X bring Y	0.8493736095161372
+X cause Y X involve Y	0.497042638561352
+X control Y X indicate for Y	0.4304646810201712
+X cause by Y X characterize by Y	0.3591066864289465
+X relieve Y X control Y	0.7786438688624073
+X find in Y X isolate from Y	0.4280490943256936
+X turn to Y X develop into Y	0.7295981257392747
+X lead to Y X manifest by Y	0.2238542675188623
+X begin as Y X cause Y	0.2151666869420691
+X make Y X manufacture Y	0.26953316806938915
+X begin with Y X characterize by Y	0.21151662971369067
+X suggest Y X cause Y	0.7914017750725733
+X afford Y X bring Y	0.8043944298220228
+X manifest by Y X associate with Y	0.2857855913108648
+X cure with Y X control with Y	0.37250360242198255
+X control by Y X treat by Y	0.6628319852578384
+X complicate by Y X develop into Y	0.17835784445711142
+X make from Y X contain Y	0.3062814863628804
+X attribute to Y X associate with Y	0.8117662393797628
+X involve Y X affect Y	1.010984001869334
+X base on Y X compose of Y	0.1643590509256685
+X lead to Y X characterize by Y	0.3162517306047944
+X correct with Y X treat by Y	0.4724115474372538
+X result in Y X contribute to Y	0.8302588382859406
+X cause by Y X see in Y	0.22573365826039477
+X mean Y X cause Y	0.9970495745684047
+X overcome by Y X treat with Y	0.6744873471232097
+X break Y X digest Y	0.3318326373414996
+X penetrate by Y X fertilize by Y	0.0
+X relieve by Y X control with Y	0.5927689936106526
+X help Y X alleviate Y	0.3510795347823296
+X develop Y X expose to Y	0.5461308198936854
+X characterize by Y X cause by Y	0.3591066864289465
+X attribute to Y X cause by Y	0.29464878620875795
+X involve Y X cause Y	1.1970426385613506
+X discover Y X invent Y	0.7385768744998986
+X control with Y X control by Y	0.4197692733019332
